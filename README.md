@@ -81,8 +81,11 @@ streamlit run cricket_db_app_final.py
 
 Developed by:
 SUHITH REDDY C PES2UG23CS617
+
 THILAK URS V   PES2UG23CS654
+
 SRAJAN SHETTY  PES2UG23CS596
+
 PES University - Database Project (2025)
 
 ---
