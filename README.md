@@ -20,11 +20,17 @@ A full-stack database project to manage cricket teams, players, matches, tournam
 ## 📦 Project Structure
 
 ├── cricket_db_app_final.py # Streamlit frontend app (GUI)
+
 ├── cricket_db_complete.sql # MySQL DDL + DML setup (fixed, ready to load)
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project documentation (you are here)
+
 └── .streamlit/
+
 └── secrets.toml # Streamlit MySQL config (user-provided)
+
 
 ---
 
